@@ -1,6 +1,6 @@
 # RAB5-OSIRE Documents
 
-Here you may find Rutronik Adapter Board - Osire®  documents as follows:
+Here you may find Rutronik Adapter Board 5 - Osire®  documents as follows:
 
 - User's Manual
 
